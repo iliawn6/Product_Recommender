@@ -2,6 +2,7 @@
 
 This project implements a **deep learning–based recommender system** that predicts how much a user would like a given product.  
 By learning patterns in historical interactions between users and items, the model recommends products a user has not yet purchased but is likely to rate highly.
+
 While trained on the **Amazon Electronics** dataset, the approach is domain-agnostic and works equally well for movies, music, books, or general e-commerce.
 
 &nbsp;  
