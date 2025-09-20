@@ -1,4 +1,4 @@
-# 🎯 Deep Learning Recommender System (Amazon Dataset)
+# 🎯 Neural Recommender System with Amazon Ratings
 
 This project implements a **deep learning–based recommender system** that predicts how much a user would like a given product.  
 By learning patterns in historical interactions between users and items, the model recommends products a user has not yet purchased but is likely to rate highly.
